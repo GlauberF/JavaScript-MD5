@@ -3,6 +3,9 @@
 ## Demo
 [JavaScript MD5 Demo](https://blueimp.github.io/JavaScript-MD5/)
 
+## CDN
+https://cdn.jsdelivr.net/gh/GlauberF/JavaScript-MD5@master/js/md5.min.js
+
 ## Description
 JavaScript MD5 implementation. Compatible with server-side environments like
 Node.js, module loaders like RequireJS, Browserify or webpack and all web
